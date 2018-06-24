@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bill Calculator</string>
+    <string name="RafysButton">Calculate</string>
+    <string name="next1">Next</string>
+    <string name="next2">Next</string>
+    <string name="next3">Next</string>
+    <string name="previous1">Previous</string>
+    <string name="previous2">Previous</string>
+    <string name="previous3">Previous</string>
+    <string name="previous4">Previous</string>
+    <string name="next4">Next</string>
+    <string name="result1">Result</string>
+    <string name="result2">Result</string>
+    <string name="result3">Result</string>
+    <string name="result4">Result</string>
+    <string name="total">Total</string>
+</resources>

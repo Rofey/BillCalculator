@@ -59,6 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
         float diff1, diff2, diff3, diff4, unitSum=0;
         float p1 = Float.parseFloat(prev1.getText().toString());
+        Log.i("Msg", "Calue" + p1);
         float p2 = Float.parseFloat(prev2.getText().toString());
         float p3 = Float.parseFloat(prev3.getText().toString());
         float p4 = Float.parseFloat(prev4.getText().toString());
